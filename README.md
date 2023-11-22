@@ -20,3 +20,6 @@ It is a purely backend api project in node with no db connection as its stored i
 
 Api endpoint for this project is
 http://localhost:8080/api/v1/
+
+# Note
+I have also attached the postman file for the api endpoint. Feel free to use it and save time.
