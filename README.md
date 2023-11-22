@@ -1,4 +1,4 @@
-﻿# task_management
+﻿# Task Management
 
 It is a purely backend api project in node with no db connection as its stored in the array of objects. Jest is used for writing test cases for the unit testing of this project.
 
@@ -11,7 +11,10 @@ It is a purely backend api project in node with no db connection as its stored i
 
 # Instructions:
 
-1.`npm install` 2. `npm start` (to start the server) 3. `npm test` (to run unit test cases) 4. You can change the port name by renaming the .env-sample to .env and change the port
+1. `npm install` 
+2. `npm start` (to start the server) 
+3. `npm test` (to run unit test cases) 
+4. You can change the port name by renaming the .env-sample to .env and change the port
 
 # Assumptions
 
